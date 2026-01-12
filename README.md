@@ -1,5 +1,7 @@
 # Troll Platformer
 
+![Preview image](img/level1.png)
+
 ## Description
 
 2D singleplayer platformer game with frustrating elements such as moving spikes. The game consists of 5 levels (the last one is extremely difficult). Three save slots are available to save progress - level, time, death count. Last and best times are displayed in the main menu.
